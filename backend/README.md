@@ -102,3 +102,5 @@ createdb trivia_test
 psql trivia_test < trivia.psql
 python test_flaskr.py
 ```
+
+> View the [API README](./API_Documentation/README.md) for API INTEGRATION details.
