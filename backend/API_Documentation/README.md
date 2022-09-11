@@ -439,7 +439,7 @@ The API will return three error types when requests fail:
 ## Deployment N/A
 
 ## Authors
-Yours truly, Coach Caryn 
+Yours truly, Balogun Lukman 
 
 ## Acknowledgements 
 The awesome team at Udacity and all of the students, soon to be full stack extraordinaires! 
